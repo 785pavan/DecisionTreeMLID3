@@ -1,0 +1,7 @@
+class:unacc, acc, good, vgood
+att0:vhigh, high, med, low
+att1:vhigh, high, med, low
+att2:2, 3, 4, 5more
+att3:2, 4, more
+att4:small, med, big
+att5:low, med, high

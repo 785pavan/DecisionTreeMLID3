@@ -1,0 +1,9 @@
+class:recommend, priority, not_recom, very_recom
+att0:usual, pretentious, great_pret
+att1:proper, less_proper, improper, critical, very_crit
+att2:complete, completed, incomplete, foster,
+att3:1, 2, 3, more
+att4:convenient, less_conv, critical
+att5:convenient, inconv
+att6:nonprob, slightly_prob, problematic
+att7:recommended, priority, not_recom
