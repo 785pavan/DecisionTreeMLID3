@@ -1,5 +1,5 @@
 # DecisionTreeMLID3
-** ID3 implementation of decision learning algorithm
+**ID3 implementation of decision learning algorithm
 Project- To build a program to create decision tree on Car Data using ID3 algorithm.
 ____________________________________________________________________________________________________________
 
